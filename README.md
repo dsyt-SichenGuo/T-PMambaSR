@@ -1,4 +1,4 @@
-# Transformer-Progressive Mamba Network for Lightweight Image Super-Resolution [TIP 2026]
+# Transformer-Progressive Mamba Network for Lightweight Image Super-Resolution
 
 
 
